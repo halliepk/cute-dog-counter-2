@@ -1,0 +1,65 @@
+body {
+    background-image: url("https://template.canva.com/EAD29RnUHXo/2/0/1600w-6nPSmRqEqWw.jpg");
+    background-size: cover;
+    font-family: 'Indie Flower', BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: #649ca4;
+    height: 100vh;
+}
+
+h1 {
+    padding-top: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 45px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #3c4647;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    font-family: 'Indie Flower', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    border: 1px solid #3c4647;
+    border-radius: 2;
+}
+
+.number {
+    font-family: 'Belanosima', sans-serif;
+}
+
+.previous {
+    font-family: 'Belanosima', sans-serif;
+    font-weight: normal;
+    padding-bottom: 10px;
+    color: #649ca4;
+}
+
+.counter {
+    background: #fdfdff;
+    max-width: 75%;
+    margin: auto;
+    border: 1px solid #3c4647;
+    border-radius: 10px;
+}
+
+#increment-btn {
+    background: #f3a2d5;
+}
+
+#save-btn {
+    background: #fdf2d4;
+}
+
